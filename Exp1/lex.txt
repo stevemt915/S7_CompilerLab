@@ -1,0 +1,6 @@
+s=a+b
+if
+/*hello*/
+a=5.5
+if(a>b);
+{ c=9} 
